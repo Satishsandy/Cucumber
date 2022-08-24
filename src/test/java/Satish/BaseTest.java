@@ -45,5 +45,9 @@ public class BaseTest {
 	}
 	System.out.println("Screenshot saved sucessfully");
 	}
+	
+	void dis() {
+		System.out.println("satish");
+	}
 
 }
