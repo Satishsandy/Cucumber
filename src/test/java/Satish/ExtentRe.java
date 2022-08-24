@@ -9,6 +9,10 @@ public class ExtentRe {
          ExtentReports extent = new ExtentReports();
          ExtentSparkReporter Spark = new ExtentSparkReporter("C:\\Users\\satish\\Documents\\New folder\\reports.html"); 
         
+       
+      
+        	 
+         
 	}
 
 }
