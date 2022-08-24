@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_8clockBatch/satish/lib/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satish/Desktop/commons-io-2.11.0/commons-io-2.11.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

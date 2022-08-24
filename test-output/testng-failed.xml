@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="author" value="rani"/>
+  <parameter name="browser" value="chrome"/>
+  <test name="Test Google(failed)">
+    <parameter name="author" value="satish"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="ExtentReports.ExtentReports">
+        <methods>
+          <include name="TestGoogle"/>
+          <include name="initialiseExtentReports"/>
+        </methods>
+      </class> <!-- ExtentReports.ExtentReports -->
+    </classes>
+  </test> <!-- Test Google(failed) -->
+  <test name="Test Facebook(failed)">
+    <parameter name="author" value="sandhya"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="ExtentReports.ExtentReports">
+        <methods>
+          <include name="TestFacebook"/>
+          <include name="initialiseExtentReports"/>
+        </methods>
+      </class> <!-- ExtentReports.ExtentReports -->
+    </classes>
+  </test> <!-- Test Facebook(failed) -->
+  <test name="Test OrangeHRM(failed)">
+    <parameter name="author" value="rani"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="ExtentReports.ExtentReports">
+        <methods>
+          <include name="initialiseExtentReports"/>
+          <include name="TestOrangeHRM"/>
+        </methods>
+      </class> <!-- ExtentReports.ExtentReports -->
+    </classes>
+  </test> <!-- Test OrangeHRM(failed) -->
+</suite> <!-- Failed suite [Suite] -->
